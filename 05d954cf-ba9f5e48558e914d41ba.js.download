@@ -1,7 +1,7 @@
 var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
 if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
 {
-  let window = _____WB$wombat$assign$function_____("window");
+  let window =https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fwindows%2Fwsl%2Ftoc.json _____WB$wombat$assign$function_____("window");
   let self = _____WB$wombat$assign$function_____("self");
   let document = _____WB$wombat$assign$function_____("document");
   let location = _____WB$wombat$assign$function_____("location");
