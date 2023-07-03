@@ -2,5 +2,7 @@
     "recommendations": [
         "github.codespaces",
         "ms-vscode.remote-repositories"
+        "docker"
+
     ]
 }
